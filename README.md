@@ -412,7 +412,7 @@ Open the `index.html` file in your browser to view the detailed coverage report.
 To build and run the application with `Maven`, please follow the directions shown below:
 
 ```sh
-$ git clone https://github.com/Rapter1990/cleaning-booking-microservices.git
+$ git clone https://github.com/Navneet6050/cleaning-booking-microservices.git
 $ cd cleaning-booking-microservices
 $ docker compose -f docker-local-compose.yml up -d
 $ Run config-server
@@ -536,4 +536,4 @@ https://hub.docker.com/repository/docker/noyandocker/cleaning-booking-microservi
 
 ### Contributors
 
-- [Sercan Noyan Germiyanoğlu](https://github.com/Rapter1990)
+- [Navneet Kumar](https://github.com/Navneet6050)
